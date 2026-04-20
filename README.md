@@ -57,5 +57,4 @@ Files Included
 * Jupyter Notebook (.ipynb)
 * Project Report (.pdf)
 * Sample datasets
-* Visualizations
 
